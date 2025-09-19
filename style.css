@@ -1,7 +1,7 @@
-body{background-color: rgb(199, 237, 150);}
+body{background-color: rgb(0, 0, 0);}
 
 header{color: rgb(0, 255, 8);
-background-color: black;
+background-color: rgba(243, 239, 239, 0);
 padding: 25px;
 font-size: 25px;
 font-family:Georgia;
